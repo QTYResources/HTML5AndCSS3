@@ -31,6 +31,8 @@ Chapter02 第2章 处理网页文件
 Chapter03 第3章 基本HTML结构
   01. starting-web-page.html                                            ===> 开始编写的第一个网页
   02. title-element.html                                                ===> 创建网页标题
+  03. headings.html                                                     ===> 创建分级标题
+  04. headings-user-guide.html                                          ===> 产品指南页面
 
 Chapter04 第4章 文本
 
