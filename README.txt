@@ -22,10 +22,11 @@ ISBN: 978-7-115-35065-7
 Chpater01 第1章 网页的构造块
   01. basic-html-page-no-content.html                                   ===> 不包含内容的网页结构
   02. basic-html-page.html                                              ===> 包含主体内容的网页
-  
+  03. page-text-content.html                                            ===> HTML忽略多余空格，只保留一个空格
+  04. basic-html-page-with-2nd-paragraph.html                           ===> 多段落和使用转义字符网页
 
 Chapter02 第2章 处理网页文件
-
+  无示例
 
 Chapter03 第3章 基本HTML结构
 
