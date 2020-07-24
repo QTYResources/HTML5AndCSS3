@@ -35,7 +35,11 @@ Chapter03 第3章 基本HTML结构
   04. headings-user-guide.html                                          ===> 产品指南页面
   05. headings-h1-h6-default-display.html                               ===> 演示h1~h6的分级标题
   06. headings-subheading.html                                          ===> 副标题
-  
+  07. header.html                                                       ===> 创建页眉
+  08. header-two-header-elements.html                                   ===> 页眉和内容页眉
+  09. nav.html                                                          ===> 标记导航
+  10. nav-deeper-look.html                                              ===> 次级标记导航
+  11. main-content.html                                                 ===> main 标签，主要内容区域
 
 Chapter04 第4章 文本
 
